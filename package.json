@@ -1,6 +1,6 @@
 {
   "name": "quasar-app-extension-qpostalcode",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Postal code field for Quasar",
   "author": "Stefan van Herwijnen",
   "license": "MIT",
