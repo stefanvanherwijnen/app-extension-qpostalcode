@@ -1,0 +1,9 @@
+{
+  "type": "component",
+  "props": {
+    "locale": {
+      "type": "string",
+      "desc": "Locale to use for mask and validation."
+    }
+  }
+}

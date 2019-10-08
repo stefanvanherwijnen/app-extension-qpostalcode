@@ -1,0 +1,29 @@
+{
+  "name": "quasar-app-extension-qpostalcode",
+  "version": "0.0.1",
+  "description": "Postal code field for Quasar",
+  "author": "Stefan van Herwijnen",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stefanvanherwijnen/app-extension-qpostalcode"
+  },
+  "bugs": "https://github.com/stefanvanherwijnen/app-extension-qpostalcode/issues",
+  "homepage": "",
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  },
+  "devDependencies": {
+    "@vue/eslint-config-standard": "^4.0.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.4.0",
+    "eslint-loader": "^3.0.0",
+    "eslint-plugin-vue": "^5.2.3"
+  }
+}
